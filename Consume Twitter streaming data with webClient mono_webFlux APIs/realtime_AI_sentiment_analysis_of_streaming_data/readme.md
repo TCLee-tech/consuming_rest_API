@@ -1,4 +1,4 @@
-Real-time sentiment analysis of streaming data (tweets from Twitter)
+Real-time sentiment analysis (Azure AI) of streaming data (tweets from Twitter)
 
 // AZURE
 // pass text to Azure Cognitive Services for sentiment analysis
@@ -35,7 +35,7 @@ Real-time sentiment analysis of streaming data (tweets from Twitter)
 ==> class has 2 attributes - an ArrayList of <TextDocument> objects sent to Azure for analysis, and the sentiment score returned
 ==> getter and setter for both attributes
 
-=======================================================================================================
+==============================================================================================
 
 // TWITTER
 // streaming data (Tweets) from social media
