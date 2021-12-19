@@ -4,9 +4,9 @@ Real-time sentiment analysis (Azure AI) of streaming data (tweets from Twitter)
 // pass text to Azure Cognitive Services for sentiment analysis
 
 \src\main\java\com\linkedin\api\azure\TextDocument.java
-==> the model class. class TextDocument with 3 attributes (id, text, language)
-==> create data object (TextDocument) of this model class
-==> getter and setter for all 3 attributes
+// the model class. class TextDocument with 3 attributes (id, text, language)
+// create data object (TextDocument) of this model class
+// getter and setter for all 3 attributes
 
 \src\main\java\com\linkedin\api\azure\TextAnalyticsRequest.java
 ==> putting the <TextDocumnt> data objects into a list
