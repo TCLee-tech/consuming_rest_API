@@ -1,5 +1,9 @@
 Real-time sentiment analysis (Azure AI) of streaming data (tweets from Twitter)
 
+<strong>This is an outline of the java files in this folder</strong>
+
+Screengrabs and video of streaming output in IDE Terminal attached. 
+
 // AZURE
 
 // pass text to Azure Cognitive Services for sentiment analysis
