@@ -1,0 +1,9 @@
+com\linkedin\api\azure\TextDocument.class
+com\linkedin\api\twitter\TwitterStreamingService.class
+com\linkedin\api\azure\AzureSentimentService.class
+com\linkedin\api\twilio\TwilioClient.class
+com\linkedin\api\azure\SentimentAnalysis.class
+com\linkedin\api\StartApplication.class
+com\linkedin\api\twitter\StreamResponse.class
+com\linkedin\api\azure\TextAnalyticsRequest.class
+com\linkedin\api\twitter\Tweet.class
