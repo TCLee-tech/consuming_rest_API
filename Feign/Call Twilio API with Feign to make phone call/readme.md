@@ -1,6 +1,7 @@
 <strong>Calling Twilio API with Feign</strong>
 
 Proof of Work: https://youtu.be/koFYfml6p-I
+(disclaimer: Video was crappy. I did this in the wee hours of the morning and it was for my own reference)
 
 <p>Sign up for a Twilio no-cost trial account</p>
 <ul>
